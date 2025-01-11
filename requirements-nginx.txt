@@ -14,7 +14,7 @@ click==8.1.7
 cryptography==44.0.0
 darkdetect==0.8.0
 Deprecated==1.2.14
-dnspython==2.6.1
+
 email_validator==2.1.1
 Flask==3.0.3
 Flask-Bcrypt==1.0.1
@@ -72,6 +72,6 @@ wrapt==1.16.0
 wsproto==1.2.0
 WTForms==3.1.2
 zipp==3.19.2
-dnspython>=2.6.1 # not directly required, pinned by Snyk to avoid a vulnerability
+
 gunicorn
 eventlet
