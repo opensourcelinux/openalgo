@@ -41,7 +41,7 @@ numpy
 openalgo==1.0.8
 ordered-set==4.1.0
 packaging==24.1
-pandas==2.2.2
+pandas
 pillow==11.0.0
 pycparser==2.22
 Pygments==2.18.0
